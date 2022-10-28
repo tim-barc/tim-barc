@@ -1,8 +1,9 @@
+Welcome to my profile!
+<br>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+cybersecurity+student;Looking+for+opportunities+to+grow)](https://git.io/typing-svg)
 <br>
 Hi I'm Tim, a passionate cybersecurity student trying his best in the programming realm. This github account is dedicated to displaying projects I have undertaken. 
-
-
+<br>
 ---
 <!---
 Tools and languages icons
