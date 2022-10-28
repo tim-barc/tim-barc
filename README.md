@@ -1,6 +1,7 @@
 
 Hi I'm Tim, a passionate cybersecurity student trying his best in the programming realm. This github account is dedicated to displaying projects I have undertaken. 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+cybersecurity+student;Looking+for+opportunities+to+grow)](https://git.io/typing-svg)
 
 ---
 <!---
