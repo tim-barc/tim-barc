@@ -5,7 +5,7 @@ Typing read me
 <br>
 Hi I'm Tim, a passionate cybersecurity student trying his best in the programming realm. This github account is dedicated to displaying projects I have undertaken. 
 <br>
----
+###---
 <!---
 Tools and languages icons
 --->
