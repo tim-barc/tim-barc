@@ -3,7 +3,7 @@ Typing read me
 --->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+cybersecurity+student;Avid+Netflix+watcher)](https://git.io/typing-svg)
 
-Hi I'm Tim, a cybersecurity student trying his best in the programming realm. This github account is dedicated to displaying projects I have undertaken. 
+Hi I'm Tim, a cybersecurity student trying his best in the programming realm. This github account is dedicated to displaying projects I have undertaken. I have a strong passion for cybersecurity, with more specific interests in OSINT, OPSEC, Pentesting, and much more. I am a committed and persistent individual who is always looking for opportunities to learn and expand my knowledge. Most importantly, I am enthusiastic about my studies, and strive to achieve the greatest results whenever possible.
 
 ---
 
