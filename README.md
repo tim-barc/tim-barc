@@ -1,7 +1,9 @@
 
-Hi, I'm a passionate cybersecurity student trying his best in the programming realm. This github account is dedicated to displaying projects I have undertaken. 
+Hi I'm Tim, a passionate cybersecurity student trying his best in the programming realm. This github account is dedicated to displaying projects I have undertaken. 
 
-### 🧰 Languages and Tools
+---
+
+### Languages and Tools
 
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
