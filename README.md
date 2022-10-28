@@ -1,7 +1,7 @@
 <!---
 Typing read me
 --->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+cybersecurity+student;Looking+to+make+an+impact+and+protect+the+Australian_people)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+cybersecurity+student;Avid+Netflix+watcher)](https://git.io/typing-svg)
 <br>
 Hi I'm Tim, a cybersecurity student trying his best in the programming realm. This github account is dedicated to displaying projects I have undertaken. 
 <br>
