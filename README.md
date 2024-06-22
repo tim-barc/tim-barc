@@ -3,7 +3,14 @@ Typing read me
 --->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+cybersecurity+student;Avid+Netflix+watcher)](https://git.io/typing-svg)
 
-Hi I'm Tim, a cybersecurity student trying his best in the programming realm. This github account is dedicated to displaying projects I have undertaken. I have a strong passion for cybersecurity, with more specific interests in OSINT, OPSEC, Pentesting, and much more. I am a committed and persistent individual who is always looking for opportunities to learn and expand my knowledge. Most importantly, I am enthusiastic about my studies, and strive to achieve the greatest results whenever possible.
+This github account is dedicated to displaying projects I have undertaken. Cybersecurity Student | Aspiring APS/ADF Professional 
+
+I am an enthusiastic and driven cybersecurity student at La Trobe University with a deep passion for learning new things. My journey in cybersecurity is fuelled by a relentless pursuit of knowledge and a commitment to staying abreast of the latest threats and technologies.
+
+As an avid CTF player on platforms like TryHackMe and HackTheBox, I love the challenge and excitement of solving complex problems and applying my skills in practical scenarios. I also enjoy expanding my cybersecurity knowledge through using platforms like YouTube and exploring the fascinating intersection of AI and cybersecurity. Additionally, I have a keen interest in Open-Source Intelligence (OSINT) and its applications in cybersecurity. 
+
+My ultimate aspiration is to serve the people of Australia by contributing to the security interests of this beautiful country, particularly within the Australian Public Service (APS) or the Australian Defence Force (ADF). 
+As I navigate through my academic and professional journey, I am continuously seeking opportunities to apply my skills in real-world scenarios. I am excited about the future advancements in cybersecurity and eager to be at the forefront of this dynamic field.
 
 ---
 
