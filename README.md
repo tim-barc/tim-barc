@@ -3,7 +3,7 @@ Typing read me
 --->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+cybersecurity+student;Avid+CTF+competitor)](https://git.io/typing-svg)
 
-This github account is dedicated to displaying projects I have undertaken. Cybersecurity Student | Aspiring APS/ADF Professional 
+This github account is dedicated to displaying projects I have undertaken.
 
 I am an enthusiastic and driven cybersecurity student at La Trobe University with a deep passion for learning new things. My journey in cybersecurity is fuelled by a relentless pursuit of knowledge and a commitment to staying abreast of the latest threats and technologies.
 
