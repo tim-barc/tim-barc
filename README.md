@@ -15,6 +15,7 @@ As I navigate through my academic and professional journey, I am continuously se
 ---
 
 ## Skills
+The following table covers bulk of the skills I have gained through the challenges/CTFs and reports I have uploaded on this GitHub account. Please note that this is not an exhaustive list of the skills gained, It just covers the primary ones. 
 | Skill                                                                                         | Associated Project(s)             |
 |-----------------------------------------------------------------------------------------------|-----------------------------------|
 | Network scanning and enumeration                                                              |                                   |
@@ -31,7 +32,7 @@ As I navigate through my academic and professional journey, I am continuously se
 | Phishing email analysis and threat identification                                             |                                   |
 | Creating and implementing YARA rules for advanced malware detection                           |                                   |
 | Setting up and configuring the ELK stack for log management and analysis                      |                                   |
-| GeoIP configuration and utilization in Wireshark for enhanced traffic analysis                |                                   |
+| GeoIP configuration and utilization in Wireshark for enhanced traffic analysis                | <a href="https://github.com/tim-barc/miscellaneous-notes-reports/blob/main/wireshark_geolocation.pdf"><Wireshark MaxMind Database></a>                                 |
 | Programming and deploying BadUSB devices for security testing                                 |                                   |
 | Using DeepBlueCLI for advanced Windows Event Log analysis                                     |                                   |
 | Analyzing and mitigating ransomware and malware attacks                                       |                                   |
