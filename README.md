@@ -15,3 +15,24 @@ As I navigate through my academic and professional journey, I am continuously se
 ---
 
 ## Skills
+| Skill                                                                                         | Associated Project(s)             |
+|-----------------------------------------------------------------------------------------------|-----------------------------------|
+| Network scanning and enumeration                                                              |                                   |
+| Steganography and data extraction                                                             |                                   |
+| Reverse shell exploitation                                                                    |                                   |
+| Privilege escalation techniques                                                               |                                   |
+| Credential and directory brute-forcing                                                        |                                   |
+| Incident investigation and log analysis using Splunk and ELK stack                            |                                   |
+| Web application vulnerability exploitation (e.g., WordPress, Apache Tomcat)                   |                                   |
+| FTP and SSH service exploitation                                                              |                                   |
+| Comprehensive network traffic analysis using Brim, Zeek, NetworkMiner, TShark, and Wireshark  |                                   |
+| IDS/IPS implementation and rule creation using Snort                                          |                                   |
+| Windows Event Log and Sysmon analysis for threat detection                                    |                                   |
+| Phishing email analysis and threat identification                                             |                                   |
+| Creating and implementing YARA rules for advanced malware detection                           |                                   |
+| Setting up and configuring the ELK stack for log management and analysis                      |                                   |
+| GeoIP configuration and utilization in Wireshark for enhanced traffic analysis                |                                   |
+| Programming and deploying BadUSB devices for security testing                                 |                                   |
+| Using DeepBlueCLI for advanced Windows Event Log analysis                                     |                                   |
+| Analyzing and mitigating ransomware and malware attacks                                       |                                   |
+| Utilizing various cybersecurity tools and frameworks (e.g., Hydra, Metasploit, WPScan)        |                                   |
