@@ -17,7 +17,7 @@ As I navigate through my academic and professional journey, I am continuously se
 ## Skills
 The following table covers bulk of the skills I have gained through the challenges/CTFs and reports I have uploaded on this GitHub account. Please note that this is not an exhaustive list of the skills gained, It just covers the primary ones. 
 | Skill                                                                                         |            
-|-----------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Network scanning and enumeration                                                              |                                
 | Steganography and data extraction                                                             |                               
 | Reverse shell exploitation                                                                    |                                
