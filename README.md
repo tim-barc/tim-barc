@@ -13,3 +13,5 @@ My ultimate aspiration is to serve the people of Australia by contributing to th
 As I navigate through my academic and professional journey, I am continuously seeking opportunities to apply my skills in real-world scenarios. I am excited about the future advancements in cybersecurity and eager to be at the forefront of this dynamic field.
 
 ---
+
+## Skills
