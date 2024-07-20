@@ -32,7 +32,7 @@ The following table covers bulk of the skills I have gained through the challeng
 | Phishing email analysis and threat identification                                             |                                   |
 | Creating and implementing YARA rules for advanced malware detection                           |                                   |
 | Setting up and configuring the ELK stack for log management and analysis                      |                                   |
-| GeoIP configuration and utilization in Wireshark for enhanced traffic analysis                | <a href="https://github.com/tim-barc/miscellaneous-notes-reports/blob/main/wireshark_geolocation.pdf"><Wireshark MaxMind Database></a>                                 |
+| GeoIP configuration and utilization in Wireshark for enhanced traffic analysis                | <a href="https://github.com/tim-barc/miscellaneous-notes-reports/blob/main/wireshark_geolocation.pdf"><Wireshark MaxMind Database></a>                           |
 | Programming and deploying BadUSB devices for security testing                                 |                                   |
 | Using DeepBlueCLI for advanced Windows Event Log analysis                                     |                                   |
 | Analyzing and mitigating ransomware and malware attacks                                       |                                   |
