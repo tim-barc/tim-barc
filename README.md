@@ -10,30 +10,4 @@ I am an enthusiastic and driven cybersecurity graduate with a deep passion for l
 As an avid CTF player on platforms like TryHackMe, CyberDefenders, and LetsDefend, I love the challenge and excitement of solving complex problems and applying my skills in practical scenarios. I also enjoy expanding my cybersecurity knowledge through using platforms like YouTube and exploring the fascinating intersection of AI and cybersecurity. Additionally, I have a keen interest in Open-Source Intelligence (OSINT) and its applications in cybersecurity. 
 
 My ultimate aspiration is to serve the people of Australia by contributing to the security interests of this beautiful country. 
-As I navigate through my professional journey, I am continuously seeking opportunities to apply my skills in real-world scenarios. I am excited about the future advancements in cybersecurity and eager to be at the forefront of this dynamic field.
-
----
-
-## Skills
-The following table covers bulk of the skills I have gained through the challenges/CTFs and reports I have uploaded on this GitHub account. Please note that this is not an exhaustive list of the skills gained, It just covers the primary ones. 
-| Skill                                                                                         |            
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Network scanning and enumeration                                                              |                                
-| Steganography and data extraction                                                             |                               
-| Reverse shell exploitation                                                                    |                                
-| Privilege escalation techniques                                                               |                                   
-| Credential and directory brute-forcing                                                        |                                   
-| Incident investigation and log analysis using Splunk and ELK stack                            |                                   
-| Web application vulnerability exploitation (e.g., WordPress, Apache Tomcat)                   |                                   
-| FTP and SSH service exploitation                                                              |                                   
-| Comprehensive network traffic analysis using Brim, Zeek, NetworkMiner, TShark, and Wireshark  |                                   
-| IDS/IPS implementation and rule creation using Snort                                          |                                   
-| Windows Event Log and Sysmon analysis for threat detection                                    |                                   
-| Phishing email analysis and threat identification                                             |                                   
-| Creating and implementing YARA rules for advanced malware detection                           |                                   
-| Setting up and configuring the ELK stack for log management and analysis                      |                                   
-| GeoIP configuration and utilization in Wireshark for enhanced traffic analysis                |                     
-| Programming and deploying BadUSB devices for security testing                                 |                                   
-| Using DeepBlueCLI for advanced Windows Event Log analysis                                     |                                   
-| Analyzing and mitigating ransomware and malware attacks                                       |                                   
-| Utilizing various cybersecurity tools and frameworks (e.g., Hydra, Metasploit, WPScan)        |                                   
+As I navigate through my professional journey, I am continuously seeking opportunities to apply my skills in real-world scenarios. I am excited about the future advancements in cybersecurity and eager to be at the forefront of this dynamic field.                        
